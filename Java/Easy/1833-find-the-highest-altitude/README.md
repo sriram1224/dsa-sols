@@ -11,8 +11,8 @@
 |---|---|
 | Language | java |
 | Runtime | 0 ms |
-| Memory | 43.20 MB |
-| Submitted | 2026-06-19 |
+| Memory | 43.00 MB |
+| Submitted | 2026-06-11 |
 
 ## Attempt Evolution
 
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Java/Easy/1833-find-the-highest-altitude/attempts/2038392383/solution.java`
+`Java/Easy/1833-find-the-highest-altitude/attempts/2029460301/solution.java`
 
 ## Synced By
 
