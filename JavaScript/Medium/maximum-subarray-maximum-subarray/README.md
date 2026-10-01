@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | javascript |
-| Runtime | 70 ms |
-| Memory | 50.30 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2024-01-08 |
 
 ## Attempt Evolution
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`JavaScript/Medium/maximum-subarray-maximum-subarray/attempts/1140617686/solution.js`
+`JavaScript/Medium/maximum-subarray-maximum-subarray/attempts/1140617042/solution.js`
 
 ## Synced By
 
