@@ -7,7 +7,7 @@
 | Metric | Value |
 |---|---|
 | Language | mysql |
-| Runtime | 336 ms |
+| Runtime | 386 ms |
 | Memory | 0.00 MB |
 | Submitted | 2025-11-22 |
 
@@ -21,7 +21,7 @@
 
 ## Repository Path
 
-`Mysql/Easy/employees-earning-more-than-their-managers-employees-earning-more-than-their-managers/attempts/1836579226/solution.txt`
+`Mysql/Easy/employees-earning-more-than-their-managers-employees-earning-more-than-their-managers/attempts/1836576715/solution.txt`
 
 ## Synced By
 
