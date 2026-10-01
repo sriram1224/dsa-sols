@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | javascript |
-| Runtime | 55 ms |
-| Memory | 48.80 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2024-09-10 |
 
 ## Attempt Evolution
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`JavaScript/Easy/to-be-or-not-to-be-to-be-or-not-to-be/attempts/1385011876/solution.js`
+`JavaScript/Easy/to-be-or-not-to-be-to-be-or-not-to-be/attempts/1385007885/solution.js`
 
 ## Synced By
 
