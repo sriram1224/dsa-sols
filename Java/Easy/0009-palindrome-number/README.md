@@ -27,7 +27,7 @@
 
 ## Repository Path
 
-`Java/Easy/0009-palindrome-number/attempts/1154393389/solution.java`
+`Java/Easy/0009-palindrome-number/attempts/1154392956/solution.java`
 
 ## Synced By
 
