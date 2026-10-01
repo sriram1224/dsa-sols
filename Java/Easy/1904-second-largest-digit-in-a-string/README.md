@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 3 ms |
-| Memory | 43.40 MB |
+| Runtime | 30 ms |
+| Memory | 47.00 MB |
 | Submitted | 2026-06-05 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/1904-second-largest-digit-in-a-string/attempts/2023130622/solution.java`
+`Java/Easy/1904-second-largest-digit-in-a-string/attempts/2023126446/solution.java`
 
 ## Synced By
 
