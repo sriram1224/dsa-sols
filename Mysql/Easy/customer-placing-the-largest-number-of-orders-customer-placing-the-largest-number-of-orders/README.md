@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | mysql |
-| Runtime | 435 ms |
-| Memory | 0.00 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2025-11-23 |
 
 ## Attempt Evolution
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Mysql/Easy/customer-placing-the-largest-number-of-orders-customer-placing-the-largest-number-of-orders/attempts/1837463434/solution.txt`
+`Mysql/Easy/customer-placing-the-largest-number-of-orders-customer-placing-the-largest-number-of-orders/attempts/1837462628/solution.txt`
 
 ## Synced By
 
