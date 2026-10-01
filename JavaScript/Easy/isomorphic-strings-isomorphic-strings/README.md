@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | javascript |
-| Runtime | 51 ms |
-| Memory | 50.40 MB |
+| Runtime | 56 ms |
+| Memory | 50.20 MB |
 | Submitted | 2024-05-05 |
 
 ## Attempt Evolution
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`JavaScript/Easy/isomorphic-strings-isomorphic-strings/attempts/1250240731/solution.js`
+`JavaScript/Easy/isomorphic-strings-isomorphic-strings/attempts/1250240307/solution.js`
 
 ## Synced By
 
