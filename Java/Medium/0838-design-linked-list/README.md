@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Java/Medium/0838-design-linked-list/attempts/2003074353/solution.java`
+`Java/Medium/0838-design-linked-list/attempts/2002907459/solution.java`
 
 ## Synced By
 
