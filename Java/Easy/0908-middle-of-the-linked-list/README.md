@@ -12,7 +12,7 @@
 | Language | java |
 | Runtime | 0 ms |
 | Memory | 43.10 MB |
-| Submitted | 2026-07-16 |
+| Submitted | 2026-07-05 |
 
 ## Attempt Evolution
 
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/0908-middle-of-the-linked-list/attempts/2069906461/solution.java`
+`Java/Easy/0908-middle-of-the-linked-list/attempts/2056830401/solution.java`
 
 ## Synced By
 
