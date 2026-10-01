@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 0 ms |
-| Memory | 43.10 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2026-07-16 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Medium/0092-reverse-linked-list-ii/attempts/2069649352/solution.java`
+`Java/Medium/0092-reverse-linked-list-ii/attempts/2069647267/solution.java`
 
 ## Synced By
 
