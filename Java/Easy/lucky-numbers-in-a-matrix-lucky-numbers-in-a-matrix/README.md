@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 2 ms |
-| Memory | 47.40 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2026-04-02 |
 
 ## Attempt Evolution
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Easy/lucky-numbers-in-a-matrix-lucky-numbers-in-a-matrix/attempts/1966715708/solution.java`
+`Java/Easy/lucky-numbers-in-a-matrix-lucky-numbers-in-a-matrix/attempts/1966653579/solution.java`
 
 ## Synced By
 
