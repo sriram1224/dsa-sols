@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Hard/3939-process-string-with-special-operations-ii/attempts/2036497184/solution.java`
+`Java/Hard/3939-process-string-with-special-operations-ii/attempts/2036496140/solution.java`
 
 ## Synced By
 
