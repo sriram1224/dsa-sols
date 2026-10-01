@@ -8,8 +8,8 @@
 |---|---|
 | Language | java |
 | Runtime | 1 ms |
-| Memory | 47.30 MB |
-| Submitted | 2026-04-05 |
+| Memory | 45.60 MB |
+| Submitted | 2024-05-05 |
 
 ## Attempt Evolution
 
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Easy/find-pivot-index-find-pivot-index/attempts/1969342280/solution.java`
+`Java/Easy/find-pivot-index-find-pivot-index/attempts/1249844134/solution.java`
 
 ## Synced By
 
