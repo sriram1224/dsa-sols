@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 28 ms |
-| Memory | 56.10 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2024-04-30 |
 
 ## Attempt Evolution
@@ -21,7 +21,7 @@
 
 ## Repository Path
 
-`Java/Medium/sort-an-array-sort-an-array/attempts/1245328957/solution.java`
+`Java/Medium/sort-an-array-sort-an-array/attempts/1245328452/solution.java`
 
 ## Synced By
 
