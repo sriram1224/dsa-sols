@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 3 ms |
-| Memory | 42.70 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2024-02-02 |
 
 ## Attempt Evolution
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Java/Easy/0414-third-maximum-number/attempts/1164054795/solution.java`
+`Java/Easy/0414-third-maximum-number/attempts/1164049892/solution.java`
 
 ## Synced By
 
