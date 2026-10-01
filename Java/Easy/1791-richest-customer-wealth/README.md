@@ -11,8 +11,8 @@
 |---|---|
 | Language | java |
 | Runtime | 0 ms |
-| Memory | 44.90 MB |
-| Submitted | 2026-06-13 |
+| Memory | 44.50 MB |
+| Submitted | 2026-03-26 |
 
 ## Attempt Evolution
 
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/1791-richest-customer-wealth/attempts/2031643426/solution.java`
+`Java/Easy/1791-richest-customer-wealth/attempts/1960103242/solution.java`
 
 ## Synced By
 
