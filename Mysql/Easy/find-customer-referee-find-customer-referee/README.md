@@ -7,7 +7,7 @@
 | Metric | Value |
 |---|---|
 | Language | mysql |
-| Runtime | 473 ms |
+| Runtime | 435 ms |
 | Memory | 0.00 MB |
 | Submitted | 2025-11-23 |
 
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Mysql/Easy/find-customer-referee-find-customer-referee/attempts/1837322183/solution.txt`
+`Mysql/Easy/find-customer-referee-find-customer-referee/attempts/1837320976/solution.txt`
 
 ## Synced By
 
