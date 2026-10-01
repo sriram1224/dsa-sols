@@ -11,8 +11,8 @@
 |---|---|
 | Language | java |
 | Runtime | 0 ms |
-| Memory | 44.20 MB |
-| Submitted | 2026-05-14 |
+| Memory | 44.30 MB |
+| Submitted | 2026-03-26 |
 
 ## Attempt Evolution
 
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Java/Easy/1603-running-sum-of-1d-array/attempts/2002655269/solution.java`
+`Java/Easy/1603-running-sum-of-1d-array/attempts/1960015741/solution.java`
 
 ## Synced By
 
