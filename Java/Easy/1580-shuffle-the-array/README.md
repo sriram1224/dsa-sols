@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Java/Easy/1580-shuffle-the-array/attempts/2031718891/solution.java`
+`Java/Easy/1580-shuffle-the-array/attempts/2031716814/solution.java`
 
 ## Synced By
 
