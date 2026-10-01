@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 55 ms |
-| Memory | 70.50 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2026-06-30 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Medium/0940-fruit-into-baskets/attempts/2051558588/solution.java`
+`Java/Medium/0940-fruit-into-baskets/attempts/2051539329/solution.java`
 
 ## Synced By
 
