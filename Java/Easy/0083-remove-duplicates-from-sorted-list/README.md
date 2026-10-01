@@ -11,8 +11,8 @@
 |---|---|
 | Language | java |
 | Runtime | 0 ms |
-| Memory | 45.50 MB |
-| Submitted | 2026-07-08 |
+| Memory | 45.30 MB |
+| Submitted | 2026-07-04 |
 
 ## Attempt Evolution
 
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/0083-remove-duplicates-from-sorted-list/attempts/2060280373/solution.java`
+`Java/Easy/0083-remove-duplicates-from-sorted-list/attempts/2056023303/solution.java`
 
 ## Synced By
 
