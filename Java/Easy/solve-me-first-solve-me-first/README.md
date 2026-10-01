@@ -25,7 +25,7 @@
 
 ## Repository Path
 
-`Java/Easy/solve-me-first-solve-me-first/attempts/479413257/solution.java`
+`Java/Easy/solve-me-first-solve-me-first/attempts/479412288/solution.java`
 
 ## Synced By
 
