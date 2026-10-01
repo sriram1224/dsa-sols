@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 0 ms |
-| Memory | 44.80 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2026-05-27 |
 
 ## Attempt Evolution
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Java/Easy/0035-search-insert-position/attempts/2014368421/solution.java`
+`Java/Easy/0035-search-insert-position/attempts/2014359983/solution.java`
 
 ## Synced By
 
