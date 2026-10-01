@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 2 ms |
-| Memory | 46.50 MB |
+| Runtime | 8 ms |
+| Memory | 47.00 MB |
 | Submitted | 2026-06-13 |
 
 ## Attempt Evolution
@@ -25,7 +25,7 @@
 
 ## Repository Path
 
-`Java/Easy/4216-weighted-word-mapping/attempts/2031876367/solution.java`
+`Java/Easy/4216-weighted-word-mapping/attempts/2031875052/solution.java`
 
 ## Synced By
 
