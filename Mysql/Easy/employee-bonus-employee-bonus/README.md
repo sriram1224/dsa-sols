@@ -7,7 +7,7 @@
 | Metric | Value |
 |---|---|
 | Language | mysql |
-| Runtime | 782 ms |
+| Runtime | 788 ms |
 | Memory | 0.00 MB |
 | Submitted | 2025-11-16 |
 
@@ -21,7 +21,7 @@
 
 ## Repository Path
 
-`Mysql/Easy/employee-bonus-employee-bonus/attempts/1831251389/solution.txt`
+`Mysql/Easy/employee-bonus-employee-bonus/attempts/1831248902/solution.txt`
 
 ## Synced By
 
