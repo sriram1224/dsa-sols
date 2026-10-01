@@ -11,7 +11,7 @@
 |---|---|
 | Language | java |
 | Runtime | 0 ms |
-| Memory | 43.80 MB |
+| Memory | 44.10 MB |
 | Submitted | 2026-08-05 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/0021-merge-two-sorted-lists/attempts/2094772176/solution.java`
+`Java/Easy/0021-merge-two-sorted-lists/attempts/2094766270/solution.java`
 
 ## Synced By
 
