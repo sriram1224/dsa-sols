@@ -10,9 +10,9 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 0 ms |
+| Runtime | 1 ms |
 | Memory | 45.60 MB |
-| Submitted | 2026-06-13 |
+| Submitted | 2026-03-27 |
 
 ## Attempt Evolution
 
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/0861-flipping-an-image/attempts/2031960925/solution.java`
+`Java/Easy/0861-flipping-an-image/attempts/1960794050/solution.java`
 
 ## Synced By
 
