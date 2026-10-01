@@ -7,8 +7,8 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **80** |
-| 🟢 Easy | 58 |
+| **Total Solved** | **81** |
+| 🟢 Easy | 59 |
 | 🟡 Medium | 20 |
 | 🔴 Hard | 2 |
 

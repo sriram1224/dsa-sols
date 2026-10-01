@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 0 ms |
-| Memory | 41.60 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2024-06-07 |
 
 ## Attempt Evolution
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Easy/plus-one-plus-one/attempts/1280742260/solution.java`
+`Java/Easy/plus-one-plus-one/attempts/1280739002/solution.java`
 
 ## Synced By
 
