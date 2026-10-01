@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 2596 ms |
-| Memory | 47.00 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2026-04-21 |
 
 ## Attempt Evolution
@@ -21,7 +21,7 @@
 
 ## Repository Path
 
-`Java/Medium/longest-palindromic-substring-longest-palindromic-substring/attempts/1984178401/solution.java`
+`Java/Medium/longest-palindromic-substring-longest-palindromic-substring/attempts/1984174309/solution.java`
 
 ## Synced By
 
