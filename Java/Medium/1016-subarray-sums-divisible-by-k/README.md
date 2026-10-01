@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Medium/1016-subarray-sums-divisible-by-k/attempts/2002225654/solution.java`
+`Java/Medium/1016-subarray-sums-divisible-by-k/attempts/2002161005/solution.java`
 
 ## Synced By
 
