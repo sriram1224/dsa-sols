@@ -17,6 +17,15 @@
 | Language | Solutions |
 |---|---|
 | Java | 2 |
+| JavaScript | 1 |
+
+## 🏷️ Top Topics
+
+| Topic | Solved |
+|---|---|
+| Array | 1 |
+| Sorting | 1 |
+| Two Pointers | 1 |
 
 ---
 *Built with ❤️ by [LCSync](https://github.com/sriram1224/LCSync)*
