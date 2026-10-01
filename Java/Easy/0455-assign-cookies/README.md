@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 14 ms |
-| Memory | 51.60 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2026-05-15 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/0455-assign-cookies/attempts/2004091780/solution.java`
+`Java/Easy/0455-assign-cookies/attempts/2004084062/solution.java`
 
 ## Synced By
 
