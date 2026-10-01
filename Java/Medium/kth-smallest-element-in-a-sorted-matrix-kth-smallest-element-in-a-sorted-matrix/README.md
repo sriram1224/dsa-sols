@@ -22,7 +22,7 @@
 
 ## Repository Path
 
-`Java/Medium/kth-smallest-element-in-a-sorted-matrix-kth-smallest-element-in-a-sorted-matrix/attempts/1246116261/solution.java`
+`Java/Medium/kth-smallest-element-in-a-sorted-matrix-kth-smallest-element-in-a-sorted-matrix/attempts/1246116118/solution.java`
 
 ## Synced By
 
