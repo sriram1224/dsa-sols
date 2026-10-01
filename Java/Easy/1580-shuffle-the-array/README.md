@@ -11,8 +11,8 @@
 |---|---|
 | Language | java |
 | Runtime | 0 ms |
-| Memory | 46.40 MB |
-| Submitted | 2026-06-13 |
+| Memory | 46.30 MB |
+| Submitted | 2026-03-26 |
 
 ## Attempt Evolution
 
@@ -24,7 +24,7 @@
 
 ## Repository Path
 
-`Java/Easy/1580-shuffle-the-array/attempts/2031716814/solution.java`
+`Java/Easy/1580-shuffle-the-array/attempts/1960125682/solution.java`
 
 ## Synced By
 
