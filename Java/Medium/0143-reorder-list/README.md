@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 2 ms |
-| Memory | 49.30 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2026-07-16 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Medium/0143-reorder-list/attempts/2069953317/solution.java`
+`Java/Medium/0143-reorder-list/attempts/2069850158/solution.java`
 
 ## Synced By
 
