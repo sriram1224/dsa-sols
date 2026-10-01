@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | N/A |
-| Memory | N/A |
+| Runtime | 869 ms |
+| Memory | 59.30 MB |
 | Submitted | 2026-06-13 |
 
 ## Attempt Evolution
@@ -28,7 +28,7 @@
 
 ## Repository Path
 
-`Java/Medium/0015-3sum/attempts/2032168271/solution.java`
+`Java/Medium/0015-3sum/attempts/2032155993/solution.java`
 
 ## Synced By
 
