@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 23 ms |
-| Memory | 47.90 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2024-05-01 |
 
 ## Attempt Evolution
@@ -22,7 +22,7 @@
 
 ## Repository Path
 
-`Java/Medium/kth-smallest-element-in-a-sorted-matrix-kth-smallest-element-in-a-sorted-matrix/attempts/1246116344/solution.java`
+`Java/Medium/kth-smallest-element-in-a-sorted-matrix-kth-smallest-element-in-a-sorted-matrix/attempts/1246116261/solution.java`
 
 ## Synced By
 
