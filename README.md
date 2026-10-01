@@ -16,7 +16,7 @@
 
 | Language | Solutions |
 |---|---|
-| Java | 47 |
+| Java | 49 |
 | JavaScript | 1 |
 | MySQL | 1 |
 
@@ -24,11 +24,11 @@
 
 | Topic | Solved |
 |---|---|
-| Array | 28 |
+| Array | 29 |
 | Two Pointers | 16 |
 | Linked List | 14 |
 | Hash Table | 9 |
-| Binary Search | 5 |
+| Binary Search | 6 |
 
 ---
 *Built with ❤️ by [LCSync](https://github.com/sriram1224/LCSync)*
