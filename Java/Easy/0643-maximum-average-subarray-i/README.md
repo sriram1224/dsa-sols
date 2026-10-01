@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 4 ms |
-| Memory | 69.50 MB |
+| Runtime | 5 ms |
+| Memory | 69.90 MB |
 | Submitted | 2026-07-02 |
 
 ## Attempt Evolution
@@ -26,7 +26,7 @@
 
 ## Repository Path
 
-`Java/Easy/0643-maximum-average-subarray-i/attempts/2053205037/solution.java`
+`Java/Easy/0643-maximum-average-subarray-i/attempts/2053195567/solution.java`
 
 ## Synced By
 
