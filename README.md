@@ -16,18 +16,18 @@
 
 | Language | Solutions |
 |---|---|
-| Java | 8 |
+| Java | 11 |
 | JavaScript | 1 |
 
 ## 🏷️ Top Topics
 
 | Topic | Solved |
 |---|---|
-| Array | 3 |
+| Linked List | 5 |
+| Array | 4 |
+| Two Pointers | 4 |
+| Design | 2 |
 | Dynamic Programming | 2 |
-| Linked List | 2 |
-| String | 2 |
-| Two Pointers | 2 |
 
 ---
 *Built with ❤️ by [LCSync](https://github.com/sriram1224/LCSync)*
