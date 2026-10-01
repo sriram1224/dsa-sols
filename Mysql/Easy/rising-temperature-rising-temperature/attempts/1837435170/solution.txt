@@ -1,0 +1,6 @@
+# Write your MySQL query statement below
+select id as Id from (
+    select id,temperature,
+    LAG(temperature) over(order by recordDate ) as previous
+    from
+    Weather)t WHERE previous is not null and temperature >previous;

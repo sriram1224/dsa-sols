@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | mysql |
-| Runtime | 355 ms |
-| Memory | 0.00 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2025-11-23 |
 
 ## Attempt Evolution
@@ -22,7 +22,7 @@
 
 ## Repository Path
 
-`Mysql/Easy/rising-temperature-rising-temperature/attempts/1837440437/solution.txt`
+`Mysql/Easy/rising-temperature-rising-temperature/attempts/1837435170/solution.txt`
 
 ## Synced By
 
