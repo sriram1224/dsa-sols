@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 1 ms |
-| Memory | 46.80 MB |
+| Runtime | 14 ms |
+| Memory | 47.00 MB |
 | Submitted | 2026-06-05 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/0136-single-number/attempts/2023237608/solution.java`
+`Java/Easy/0136-single-number/attempts/2023236413/solution.java`
 
 ## Synced By
 
