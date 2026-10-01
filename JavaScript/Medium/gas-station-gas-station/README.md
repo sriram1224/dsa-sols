@@ -22,7 +22,7 @@
 
 ## Repository Path
 
-`JavaScript/Medium/gas-station-gas-station/attempts/1140528656/solution.js`
+`JavaScript/Medium/gas-station-gas-station/attempts/1140490734/solution.js`
 
 ## Synced By
 
