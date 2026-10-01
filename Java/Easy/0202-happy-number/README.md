@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 1 ms |
-| Memory | 42.20 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2026-07-05 |
 
 ## Attempt Evolution
@@ -25,7 +25,7 @@
 
 ## Repository Path
 
-`Java/Easy/0202-happy-number/attempts/2056813287/solution.java`
+`Java/Easy/0202-happy-number/attempts/2056813131/solution.java`
 
 ## Synced By
 
