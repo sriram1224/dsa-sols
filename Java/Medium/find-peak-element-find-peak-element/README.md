@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 0 ms |
-| Memory | 41.70 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2023-12-19 |
 
 ## Attempt Evolution
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Medium/find-peak-element-find-peak-element/attempts/1123375845/solution.java`
+`Java/Medium/find-peak-element-find-peak-element/attempts/1123373361/solution.java`
 
 ## Synced By
 
