@@ -8,7 +8,7 @@
 |---|---|
 | Language | java |
 | Runtime | 15 ms |
-| Memory | 48.30 MB |
+| Memory | 49.40 MB |
 | Submitted | 2024-05-01 |
 
 ## Attempt Evolution
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Medium/top-k-frequent-elements-top-k-frequent-elements/attempts/1246111773/solution.java`
+`Java/Medium/top-k-frequent-elements-top-k-frequent-elements/attempts/1246111726/solution.java`
 
 ## Synced By
 
