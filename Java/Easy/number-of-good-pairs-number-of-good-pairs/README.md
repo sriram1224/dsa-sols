@@ -8,7 +8,7 @@
 |---|---|
 | Language | java |
 | Runtime | 1 ms |
-| Memory | 42.60 MB |
+| Memory | 42.80 MB |
 | Submitted | 2026-03-27 |
 
 ## Attempt Evolution
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Easy/number-of-good-pairs-number-of-good-pairs/attempts/1960610635/solution.java`
+`Java/Easy/number-of-good-pairs-number-of-good-pairs/attempts/1960479912/solution.java`
 
 ## Synced By
 
