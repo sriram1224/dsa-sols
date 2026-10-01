@@ -16,16 +16,18 @@
 
 | Language | Solutions |
 |---|---|
-| Java | 2 |
+| Java | 5 |
 | JavaScript | 1 |
 
 ## 🏷️ Top Topics
 
 | Topic | Solved |
 |---|---|
-| Array | 1 |
-| Sorting | 1 |
-| Two Pointers | 1 |
+| Array | 2 |
+| Two Pointers | 2 |
+| Dynamic Programming | 1 |
+| Linked List | 1 |
+| Monotonic Stack | 1 |
 
 ---
 *Built with ❤️ by [LCSync](https://github.com/sriram1224/LCSync)*
