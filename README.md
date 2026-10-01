@@ -7,16 +7,16 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **14** |
+| **Total Solved** | **15** |
 | 🟢 Easy | 8 |
-| 🟡 Medium | 5 |
+| 🟡 Medium | 6 |
 | 🔴 Hard | 1 |
 
 ## 💻 Languages Breakdown
 
 | Language | Solutions |
 |---|---|
-| Java | 57 |
+| Java | 62 |
 | JavaScript | 1 |
 | MySQL | 1 |
 
