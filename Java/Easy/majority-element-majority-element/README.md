@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 3 ms |
-| Memory | 48.60 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2023-12-19 |
 
 ## Attempt Evolution
@@ -22,7 +22,7 @@
 
 ## Repository Path
 
-`Java/Easy/majority-element-majority-element/attempts/1123526402/solution.java`
+`Java/Easy/majority-element-majority-element/attempts/1123523322/solution.java`
 
 ## Synced By
 
