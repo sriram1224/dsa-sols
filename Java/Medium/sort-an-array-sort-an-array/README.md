@@ -21,7 +21,7 @@
 
 ## Repository Path
 
-`Java/Medium/sort-an-array-sort-an-array/attempts/1245328452/solution.java`
+`Java/Medium/sort-an-array-sort-an-array/attempts/1245327275/solution.java`
 
 ## Synced By
 
