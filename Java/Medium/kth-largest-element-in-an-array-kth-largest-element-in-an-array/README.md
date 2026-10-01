@@ -7,8 +7,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 57 ms |
-| Memory | 58.40 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2024-05-01 |
 
 ## Attempt Evolution
@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Medium/kth-largest-element-in-an-array-kth-largest-element-in-an-array/attempts/1246123029/solution.java`
+`Java/Medium/kth-largest-element-in-an-array-kth-largest-element-in-an-array/attempts/1246122624/solution.java`
 
 ## Synced By
 
