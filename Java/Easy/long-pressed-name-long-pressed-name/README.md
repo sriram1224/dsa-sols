@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Easy/long-pressed-name-long-pressed-name/attempts/1060864185/solution.java`
+`Java/Easy/long-pressed-name-long-pressed-name/attempts/1060841972/solution.java`
 
 ## Synced By
 
