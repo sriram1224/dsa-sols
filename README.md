@@ -7,8 +7,8 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **7** |
-| 🟢 Easy | 3 |
+| **Total Solved** | **8** |
+| 🟢 Easy | 4 |
 | 🟡 Medium | 3 |
 | 🔴 Hard | 1 |
 
@@ -16,7 +16,7 @@
 
 | Language | Solutions |
 |---|---|
-| Java | 29 |
+| Java | 31 |
 | JavaScript | 1 |
 | MySQL | 1 |
 
@@ -24,9 +24,9 @@
 
 | Topic | Solved |
 |---|---|
-| Array | 14 |
+| Array | 16 |
+| Two Pointers | 13 |
 | Linked List | 12 |
-| Two Pointers | 11 |
 | Hash Table | 7 |
 | Recursion | 4 |
 
