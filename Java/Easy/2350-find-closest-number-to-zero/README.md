@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 3 ms |
-| Memory | 46.70 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2026-06-06 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Easy/2350-find-closest-number-to-zero/attempts/2024599617/solution.java`
+`Java/Easy/2350-find-closest-number-to-zero/attempts/2024595415/solution.java`
 
 ## Synced By
 
