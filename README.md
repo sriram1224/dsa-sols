@@ -16,7 +16,7 @@
 
 | Language | Solutions |
 |---|---|
-| Java | 5 |
+| Java | 7 |
 | JavaScript | 1 |
 
 ## 🏷️ Top Topics
@@ -24,10 +24,10 @@
 | Topic | Solved |
 |---|---|
 | Array | 2 |
+| Dynamic Programming | 2 |
+| String | 2 |
 | Two Pointers | 2 |
-| Dynamic Programming | 1 |
-| Linked List | 1 |
-| Monotonic Stack | 1 |
+| Backtracking | 1 |
 
 ---
 *Built with ❤️ by [LCSync](https://github.com/sriram1224/LCSync)*
