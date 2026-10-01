@@ -22,7 +22,7 @@
 
 ## Repository Path
 
-`Mysql/Easy/rising-temperature-rising-temperature/attempts/1837435170/solution.txt`
+`Mysql/Easy/rising-temperature-rising-temperature/attempts/1837433884/solution.txt`
 
 ## Synced By
 
