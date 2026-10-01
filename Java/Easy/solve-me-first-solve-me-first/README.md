@@ -9,7 +9,7 @@
 | Language | java |
 | Runtime | N/A |
 | Memory | N/A |
-| Submitted | 2026-09-22 |
+| Submitted | 2026-08-06 |
 
 ## Attempt Evolution
 
@@ -25,7 +25,7 @@
 
 ## Repository Path
 
-`Java/Easy/solve-me-first-solve-me-first/attempts/483339558/solution.java`
+`Java/Easy/solve-me-first-solve-me-first/attempts/479413892/solution.java`
 
 ## Synced By
 
