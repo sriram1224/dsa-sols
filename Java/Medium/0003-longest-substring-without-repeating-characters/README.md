@@ -30,7 +30,7 @@
 
 ## Repository Path
 
-`Java/Medium/0003-longest-substring-without-repeating-characters/attempts/1246135104/solution.java`
+`Java/Medium/0003-longest-substring-without-repeating-characters/attempts/1246134986/solution.java`
 
 ## Synced By
 
