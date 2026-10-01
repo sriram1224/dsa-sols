@@ -10,9 +10,9 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 32 ms |
-| Memory | 59.20 MB |
-| Submitted | 2026-08-05 |
+| Runtime | 34 ms |
+| Memory | 59.10 MB |
+| Submitted | 2026-07-08 |
 
 ## Attempt Evolution
 
@@ -20,11 +20,14 @@
 |---|---|---|---|---|---|---|
 | #1 | 2026-08-05 | java | 32 ms | 59.20 MB | Accepted | [View Code](./attempts/2094773097/solution.java) |
 | #2 | 2026-07-08 | java | 34 ms | 59.10 MB | Accepted | [View Code](./attempts/2060781528/solution.java) |
-| #3 | 2024-01-08 | javascript | 145 ms | 59.30 MB | Accepted | [View Code](./attempts/1140421224/solution.js) |
+| #3 | 2026-06-13 | java | 34 ms | 59.30 MB | Accepted | [View Code](./attempts/2032169167/solution.java) |
+| #4 | 2026-06-13 | java | N/A | N/A | Wrong_Answer | [View Code](./attempts/2032168271/solution.java) |
+| #5 | 2026-06-13 | java | 869 ms | 59.30 MB | Accepted | [View Code](./attempts/2032155993/solution.java) |
+| #6 | 2024-01-08 | javascript | 145 ms | 59.30 MB | Accepted | [View Code](./attempts/1140421224/solution.js) |
 
 ## Repository Path
 
-`Java/Medium/0015-3sum/attempts/2094773097/solution.java`
+`Java/Medium/0015-3sum/attempts/2060781528/solution.java`
 
 ## Synced By
 
