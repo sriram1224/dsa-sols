@@ -10,8 +10,8 @@
 | Metric | Value |
 |---|---|
 | Language | java |
-| Runtime | 0 ms |
-| Memory | 61.00 MB |
+| Runtime | N/A |
+| Memory | N/A |
 | Submitted | 2026-06-05 |
 
 ## Attempt Evolution
@@ -23,7 +23,7 @@
 
 ## Repository Path
 
-`Java/Medium/0189-rotate-array/attempts/2023221130/solution.java`
+`Java/Medium/0189-rotate-array/attempts/2023204309/solution.java`
 
 ## Synced By
 
