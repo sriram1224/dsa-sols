@@ -18,7 +18,7 @@
 |---|---|
 | Java | 64 |
 | JavaScript | 1 |
-| MySQL | 7 |
+| MySQL | 10 |
 
 ## 🏷️ Top Topics
 
