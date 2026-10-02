@@ -21,7 +21,7 @@
 
 ## Repository Path
 
-`Db2/Medium/weather-observation-station-12-weather-observation-station-12/attempts/454968371/solution.txt`
+`Db2/Medium/weather-observation-station-12-weather-observation-station-12/attempts/454968350/solution.txt`
 
 ## Synced By
 
