@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Python/Medium/python-print-python-print/attempts/326504697/solution.py`
+`Python/Medium/python-print-python-print/attempts/326504686/solution.py`
 
 ## Synced By
 
