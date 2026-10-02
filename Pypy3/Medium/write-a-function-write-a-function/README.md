@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Pypy3/Medium/write-a-function-write-a-function/attempts/280345282/solution.txt`
+`Pypy3/Medium/write-a-function-write-a-function/attempts/280345198/solution.txt`
 
 ## Synced By
 
