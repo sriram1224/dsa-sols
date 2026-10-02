@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Medium/java-stdin-and-stdout-1-java-stdin-and-stdout-1/attempts/332648563/solution.txt`
+`Java/Medium/java-stdin-and-stdout-1-java-stdin-and-stdout-1/attempts/332648548/solution.txt`
 
 ## Synced By
 
