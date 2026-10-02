@@ -7,19 +7,20 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **104** |
+| **Total Solved** | **105** |
 | 🟢 Easy | 70 |
-| 🟡 Medium | 32 |
+| 🟡 Medium | 33 |
 | 🔴 Hard | 2 |
 
 ## 💻 Languages Breakdown
 
 | Language | Solutions |
 |---|---|
-| Db2 | 5 |
-| Java | 83 |
+| Db2 | 12 |
+| Java | 86 |
 | JavaScript | 17 |
 | MySQL | 11 |
+| Python | 1 |
 
 ## 🏷️ Top Topics
 

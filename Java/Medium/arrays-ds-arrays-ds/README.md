@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Medium/arrays-ds-arrays-ds/attempts/479387980/solution.java`
+`Java/Medium/arrays-ds-arrays-ds/attempts/479381456/solution.java`
 
 ## Synced By
 
