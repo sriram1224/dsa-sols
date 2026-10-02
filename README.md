@@ -7,9 +7,9 @@
 
 | Metric | Count |
 |---|---|
-| **Total Solved** | **113** |
+| **Total Solved** | **114** |
 | 🟢 Easy | 70 |
-| 🟡 Medium | 41 |
+| 🟡 Medium | 42 |
 | 🔴 Hard | 2 |
 
 ## 💻 Languages Breakdown
