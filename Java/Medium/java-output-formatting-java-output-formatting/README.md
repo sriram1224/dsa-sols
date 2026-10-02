@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Medium/java-output-formatting-java-output-formatting/attempts/479198993/solution.java`
+`Java/Medium/java-output-formatting-java-output-formatting/attempts/479198612/solution.java`
 
 ## Synced By
 
