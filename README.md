@@ -17,10 +17,12 @@
 | Language | Solutions |
 |---|---|
 | Db2 | 12 |
-| Java | 86 |
+| Java | 87 |
 | JavaScript | 17 |
 | MySQL | 11 |
-| Python | 1 |
+| Pypy | 3 |
+| Pypy3 | 2 |
+| Python | 2 |
 
 ## 🏷️ Top Topics
 
