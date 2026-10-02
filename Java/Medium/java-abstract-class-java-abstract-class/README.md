@@ -20,7 +20,7 @@
 
 ## Repository Path
 
-`Java/Medium/java-abstract-class-java-abstract-class/attempts/427028233/solution.java`
+`Java/Medium/java-abstract-class-java-abstract-class/attempts/427028203/solution.java`
 
 ## Synced By
 
